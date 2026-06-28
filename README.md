@@ -121,7 +121,7 @@ Python██████████████████░░░░░░�
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/code-slaveboy/code-slaveboy/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/code-slaveboy/code-slaveboy/main/snake-dark.svg" />
 </p>
 
 ---

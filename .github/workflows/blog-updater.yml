@@ -1,0 +1,28 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每天 UTC 2:00（北京时间10:00）
+  workflow_dispatch:        # 手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch & update blog posts
+        run: python3 .github/scripts/update_blog.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes" || {
+            git add README.md
+            git commit -m "📝 Auto-update blog posts"
+            git push
+            echo "✅ Blog posts updated"
+          }

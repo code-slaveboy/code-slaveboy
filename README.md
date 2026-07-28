@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [第二类换元法·基础题错题复盘](https://light.sakurafishermua.top/post/20260727-substitution-basics-mistakes/)
 - [第三章·不定积分——从概念到换元法与分部积分的完整体系](https://light.sakurafishermua.top/post/20260726-indefinite-integral-system/)
 - [第二章 一元函数微分学错题复盘](https://light.sakurafishermua.top/post/chapter2-mistake-review/)
 - [第二章 一元函数微分学 · 薄弱点专项训练](https://light.sakurafishermua.top/post/chapter2-practice/)
 - [单调性与极值 —— 导数的微分学应用（上）](https://light.sakurafishermua.top/post/20260713-monotonicity-and-extrema/)
-- [第一章薄弱点练习巩固](https://light.sakurafishermua.top/post/chapter1-practice-consolidation/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

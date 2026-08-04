@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [不定积分章丢分全景：32道错题的统计报告](https://light.sakurafishermua.top/post/20260803-integration-loss-analysis/)
+- [不定积分百题带刷50-100错题合集](https://light.sakurafishermua.top/post/20260803-integration-mistakes-review/)
 - [不定积分错题复盘：分部积分、有理函数与换元法](https://light.sakurafishermua.top/post/20260731-integration-mistakes-review/)
 - [第二章 一元函数微分学·知识点系统复盘](https://light.sakurafishermua.top/post/chapter2-system-review/)
 - [第二类换元法·基础题错题复盘](https://light.sakurafishermua.top/post/20260727-substitution-basics-mistakes/)
-- [第三章·不定积分——从概念到换元法与分部积分的完整体系](https://light.sakurafishermua.top/post/20260726-indefinite-integral-system/)
-- [第二章 一元函数微分学错题复盘](https://light.sakurafishermua.top/post/chapter2-mistake-review/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [不定积分整章费曼总结：方法体系与漏洞清单](https://light.sakurafishermua.top/post/20260804-integration-feynman-summary/)
 - [不定积分章丢分全景：32道错题的统计报告](https://light.sakurafishermua.top/post/20260803-integration-loss-analysis/)
 - [不定积分百题带刷50-100错题合集](https://light.sakurafishermua.top/post/20260803-integration-mistakes-review/)
 - [不定积分错题复盘：分部积分、有理函数与换元法](https://light.sakurafishermua.top/post/20260731-integration-mistakes-review/)
 - [第二章 一元函数微分学·知识点系统复盘](https://light.sakurafishermua.top/post/chapter2-system-review/)
-- [第二类换元法·基础题错题复盘](https://light.sakurafishermua.top/post/20260727-substitution-basics-mistakes/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

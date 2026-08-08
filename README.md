@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [定积分计算：从牛顿-莱布尼茨到对称性武器](https://light.sakurafishermua.top/post/20260808-definite-integral-computation/)
+- [定积分进阶：几何意义、存在性对比、性质与华里士公式](https://light.sakurafishermua.top/post/20260807-definite-integral-geometry-existence-properties/)
 - [定积分定义费曼学习：曲边梯形、黎曼和与取点无关性](https://light.sakurafishermua.top/post/20260806-definite-integral-definition-feynman/)
 - [2026年8月5日更新日志](https://light.sakurafishermua.top/post/20260805-update-log/)
 - [不定积分整章费曼总结：方法体系与漏洞清单](https://light.sakurafishermua.top/post/20260804-integration-feynman-summary/)
-- [不定积分章丢分全景：32道错题的统计报告](https://light.sakurafishermua.top/post/20260803-integration-loss-analysis/)
-- [不定积分百题带刷50-100错题合集](https://light.sakurafishermua.top/post/20260803-integration-mistakes-review/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

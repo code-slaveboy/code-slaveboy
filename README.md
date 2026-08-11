@@ -114,10 +114,10 @@ Shell    ██████████████░░░░░░░░░�
 
 <!-- BLOG:START -->
 - [积分计算错题复盘：凹凸性、周期性、分部积分与根号陷阱](https://light.sakurafishermua.top/post/20260809-integral-mistakes-review/)
+- [反常积分：分类、p-积分尺子与参数题两端分析](https://light.sakurafishermua.top/post/20260809-improper-integral-feynman/)
 - [变限积分函数：定义、原函数关系与求导法则](https://light.sakurafishermua.top/post/20260809-variable-limit-integral-feynman/)
 - [定积分计算：从牛顿-莱布尼茨到对称性武器](https://light.sakurafishermua.top/post/20260808-definite-integral-computation/)
 - [定积分进阶：几何意义、存在性对比、性质与华里士公式](https://light.sakurafishermua.top/post/20260807-definite-integral-geometry-existence-properties/)
-- [定积分定义费曼学习：曲边梯形、黎曼和与取点无关性](https://light.sakurafishermua.top/post/20260806-definite-integral-definition-feynman/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

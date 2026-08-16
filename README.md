@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [微分方程开篇：概念与三种一阶解法（可分离、齐次、线性）](https://light.sakurafishermua.top/post/20260815-differential-equations-feynman/)
 - [定积分整章总复习：考点串讲与纠偏实录](https://light.sakurafishermua.top/post/20260814-definite-integral-review/)
+- [定积分错题复盘：导数定义启动、积分方程套路与端点代入](https://light.sakurafishermua.top/post/20260814-integral-mistakes-review/)
 - [定积分应用：面积、体积、弧长与侧面积（微元法四件套）](https://light.sakurafishermua.top/post/20260812-definite-integral-applications/)
 - [积分计算错题复盘：凹凸性、周期性、分部积分与根号陷阱](https://light.sakurafishermua.top/post/20260809-integral-mistakes-review/)
-- [反常积分：分类、p-积分尺子与参数题两端分析](https://light.sakurafishermua.top/post/20260809-improper-integral-feynman/)
-- [变限积分函数：定义、原函数关系与求导法则](https://light.sakurafishermua.top/post/20260809-variable-limit-integral-feynman/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

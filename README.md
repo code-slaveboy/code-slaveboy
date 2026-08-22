@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [微分方程进阶：伯努利方程、可降阶三类与高阶线性解的结构](https://light.sakurafishermua.top/post/20260821-differential-equations-advanced-feynman/)
 - [微分方程开篇：概念与三种一阶解法（可分离、齐次、线性）](https://light.sakurafishermua.top/post/20260815-differential-equations-feynman/)
 - [定积分整章总复习：考点串讲与纠偏实录](https://light.sakurafishermua.top/post/20260814-definite-integral-review/)
 - [定积分错题复盘：导数定义启动、积分方程套路与端点代入](https://light.sakurafishermua.top/post/20260814-integral-mistakes-review/)
 - [定积分应用：面积、体积、弧长与侧面积（微元法四件套）](https://light.sakurafishermua.top/post/20260812-definite-integral-applications/)
-- [积分计算错题复盘：凹凸性、周期性、分部积分与根号陷阱](https://light.sakurafishermua.top/post/20260809-integral-mistakes-review/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [中值定理·罗尔定理错题复盘](https://light.sakurafishermua.top/post/20260826-rolle-theorem-mistakes/)
 - [中值定理·罗尔定理：从四大性质到通解构造法](https://light.sakurafishermua.top/post/20260825-rolle-theorem-feynman/)
 - [微分方程进阶：伯努利方程、可降阶三类与高阶线性解的结构](https://light.sakurafishermua.top/post/20260821-differential-equations-advanced-feynman/)
 - [微分方程：二阶常系数齐次与非齐次（特征方程与待定系数法）](https://light.sakurafishermua.top/post/20260821-differential-equations-second-order-feynman/)
 - [微分方程开篇：概念与三种一阶解法（可分离、齐次、线性）](https://light.sakurafishermua.top/post/20260815-differential-equations-feynman/)
-- [定积分整章总复习：考点串讲与纠偏实录](https://light.sakurafishermua.top/post/20260814-definite-integral-review/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

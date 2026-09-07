@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [对立统一规律：矛盾及其发展动力（马原第二章·之二）](https://light.sakurafishermua.top/post/20260907-duilitongyi-guilv/)
+- [唯物辩证法两大总特征：普遍联系与变化发展（马原第二章·之一）](https://light.sakurafishermua.top/post/20260907-bianzhengfa-zongtezheng/)
 - [中值定理三巨头：拉格朗日·柯西·泰勒公式](https://light.sakurafishermua.top/post/20260904-lagrange-cauchy-taylor-feynman/)
 - [意识观与世界物质统一性（马原·唯物论之三）](https://light.sakurafishermua.top/post/20260904-yishiguan/)
 - [物质观：物质、运动、时空与二重化（马原·唯物论之二）](https://light.sakurafishermua.top/post/20260903-wuzhiguan/)
-- [哲学基本问题及不同流派（马原·唯物论之一）](https://light.sakurafishermua.top/post/20260903-zhexue-jibenwenti/)
-- [考研政治开篇：马原导论·马克思主义的内涵、构成与创立](https://light.sakurafishermua.top/post/20260903-mks-daolun-feynman/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

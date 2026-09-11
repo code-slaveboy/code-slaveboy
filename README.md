@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [唯物辩证法五对基本范畴：联系和发展的基本环节（马原第二章·之五）](https://light.sakurafishermua.top/post/20260910-wudui-fanchou/)
 - [否定之否定规律：发展的方向和道路（马原第二章·之四）](https://light.sakurafishermua.top/post/20260909-foudingzhifouding-guilv/)
 - [量变质变规律：质量度与量变质变的辩证关系（马原第二章·之三）](https://light.sakurafishermua.top/post/20260908-liangbianzhibian-guilv/)
 - [对立统一规律：矛盾及其发展动力（马原第二章·之二）](https://light.sakurafishermua.top/post/20260907-duilitongyi-guilv/)
 - [唯物辩证法两大总特征：普遍联系与变化发展（马原第二章·之一）](https://light.sakurafishermua.top/post/20260907-bianzhengfa-zongtezheng/)
-- [中值定理三巨头：拉格朗日·柯西·泰勒公式](https://light.sakurafishermua.top/post/20260904-lagrange-cauchy-taylor-feynman/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

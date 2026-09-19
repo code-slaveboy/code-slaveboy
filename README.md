@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [考研英语翻译错题本（持续更新）](https://light.sakurafishermua.top/post/english-translation-mistakes/)
 - [价值·真理与价值·从必然走向自由（马原第三章·之四）](https://light.sakurafishermua.top/post/20260914-jiazhi-zhenli-ziyou/)
 - [真理：客观性、绝对性与相对性、检验标准（马原第三章·之三）](https://light.sakurafishermua.top/post/20260914-zhenli/)
 - [认识的本质与过程：两条认识路线与两次飞跃（马原第三章·之二）](https://light.sakurafishermua.top/post/20260913-renshi-benzhi-guocheng/)
 - [实践：认识论的第一的和基本的观点（马原第三章·之一）](https://light.sakurafishermua.top/post/20260912-shijian-renshilun/)
-- [唯物辩证法五对基本范畴：联系和发展的基本环节（马原第二章·之五）](https://light.sakurafishermua.top/post/20260910-wudui-fanchou/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

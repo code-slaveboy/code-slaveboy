@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [二重积分](https://light.sakurafishermua.top/post/20261010-double-integral/)
 - [多元函数的极值与最值](https://light.sakurafishermua.top/post/20261001-multivariable-extrema/)
 - [复合函数与隐函数的偏导数](https://light.sakurafishermua.top/post/20260926-composite-implicit-differentiation/)
 - [全微分](https://light.sakurafishermua.top/post/20260925-total-differential/)
 - [多元函数微分学（一）：概念·二重极限·偏导数](https://light.sakurafishermua.top/post/20260923-multivariable-calculus-1/)
-- [考研英语翻译错题本（持续更新）](https://light.sakurafishermua.top/post/english-translation-mistakes/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

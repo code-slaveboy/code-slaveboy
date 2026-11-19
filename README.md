@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [专题六 数列极限的题型](https://light.sakurafishermua.top/post/20261108-sequence-methods/)
+- [专题五 数列极限的定义与性质](https://light.sakurafishermua.top/post/20261108-sequence-limits/)
+- [专题四 函数极限的定义与性质](https://light.sakurafishermua.top/post/20261108-limits-definition/)
 - [专题三 函数极限的计算](https://light.sakurafishermua.top/post/20261108-limits/)
 - [专题二 无穷小量及其阶的比较](https://light.sakurafishermua.top/post/20261020-infinitesimal-order/)
-- [专题一 函数的基本性质及常见函数](https://light.sakurafishermua.top/post/20261020-function-properties/)
-- [二重积分](https://light.sakurafishermua.top/post/20261010-double-integral/)
-- [多元函数的极值与最值](https://light.sakurafishermua.top/post/20261001-multivariable-extrema/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*

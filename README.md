@@ -113,11 +113,11 @@ Shell    ██████████████░░░░░░░░░�
 ✍️ **[light.sakurafishermua.top](https://light.sakurafishermua.top)**
 
 <!-- BLOG:START -->
+- [专题八 导数的定义与微分的定义](https://light.sakurafishermua.top/post/20261120-derivative-definition/)
+- [专题七 连续与间断](https://light.sakurafishermua.top/post/20261120-continuity/)
 - [专题六 数列极限的题型](https://light.sakurafishermua.top/post/20261108-sequence-methods/)
 - [专题五 数列极限的定义与性质](https://light.sakurafishermua.top/post/20261108-sequence-limits/)
 - [专题四 函数极限的定义与性质](https://light.sakurafishermua.top/post/20261108-limits-definition/)
-- [专题三 函数极限的计算](https://light.sakurafishermua.top/post/20261108-limits/)
-- [专题二 无穷小量及其阶的比较](https://light.sakurafishermua.top/post/20261020-infinitesimal-order/)
 <!-- BLOG:END -->
 
 > *博客文章通过 GitHub Action 自动同步更新 ⚡*
